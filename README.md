@@ -1,1 +1,1 @@
-https://RorokhEugeneSCHEV.github.io/rsschool-cv/cv
+https://github.com/RorokhEugeneSCHEV/rsschool-cv.git
